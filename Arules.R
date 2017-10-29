@@ -79,7 +79,7 @@ plot(top.vegie.rules, method="graph",
   shading = "lift")
 dev.off()  
 
-# suggestions for the student
+# Applications:
 # suppose your client is someone other than the local farmer,
 # a meat producer/butcher, dairy, or brewer perhaps
 # determine association rules relevant to your client's products
